@@ -62,6 +62,7 @@ end
 |-------------|-----------------------------------------------------------------------------|
 | angular     | Angular Language Service                                                    |
 | bash        | bash-language-server                                                        |
+| bicep       | bicep-langserver                                                            |
 | clojure     | clojure-lsp                                                                 |
 | cmake       | cmake-language-server                                                       |
 | cpp         | clangd                                                                      |
